@@ -1,8 +1,8 @@
-#Khmer System Fonts for Windows 10
+# Khmer System Fonts for Windows 10
 
 This project aims to replace the ugly Khmer UI fonts provided by Microsoft as the default Khmer System fonts in Windows 10.
 
-##Directories
+## Directories
 
 ``backup`` stores original Khmer fonts for Windows 10.
 
@@ -10,7 +10,7 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 
 ``var`` stores fonts in development.
 
-##Installation
+## Installation
 
 1. Get a package from ``dist`` directory 
 2. Unzip the package
@@ -20,6 +20,6 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 6. Click **YES**
 7. Restart your computer
 
-##Uninstallation
+## Uninstallation
 
 Install and overwrite all fonts in ``backup`` directory
