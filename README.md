@@ -13,7 +13,7 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 ## Installation
 
 1. Get a package from ``dist`` directory 
-2. Unzip the package
+2. Unzip the downloaded package
 3. Select all fonts
 4. Right-click and choose **Install**
 5. Check **Do this for all current items**
