@@ -6,7 +6,7 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 
 ``backup`` stores original Khmer fonts for Windows 10.
 
-``dist`` stores all packages ready for distribution.
+``dist`` stores packages ready for distribution.
 
 ``var`` stores fonts in development.
 
