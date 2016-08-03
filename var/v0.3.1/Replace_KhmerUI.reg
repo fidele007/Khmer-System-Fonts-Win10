@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"KhmerUI (TrueType)"="Hanuman Version 2.00.ttf"
+"KhmerUIb (TrueType)"="Hanuman Bold Version 2.00.ttf"

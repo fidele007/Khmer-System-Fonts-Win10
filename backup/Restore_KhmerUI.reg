@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"KhmerUI (TrueType)"="KhmerUI.ttf"
+"KhmerUIb (TrueType)"="KhmerUIb.ttf"
