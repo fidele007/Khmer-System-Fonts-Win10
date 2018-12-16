@@ -10,16 +10,14 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 
 ``var`` stores fonts in development.
 
-## Installation
+## Install
 
-1. Get a package from ``dist`` directory 
-2. Unzip the downloaded package
-3. Select all fonts
-4. Right-click and choose **Install**
-5. Check **Do this for all current items**
-6. Click **YES**
-7. Restart your computer
+1. Get a package from ``dist`` directory or from [releases](https://github.com/fidele007/Khmer-System-Fonts-Win10/releases)
+1. Unzip the downloaded package
+1. Select all fonts
+1. Right-click, choose **Install for all users** and replace the existing fonts
+1. Restart your computer
 
-## Uninstallation
+## Uninstall
 
 Install and overwrite all fonts in ``backup`` directory
