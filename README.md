@@ -1,5 +1,7 @@
 # Khmer System Fonts for Windows 10
 
+![Change the default Khmer font in Windows to a better one](image.jpg)
+
 This project aims to replace the ugly Khmer UI fonts provided by Microsoft as the default Khmer System fonts in Windows 10.
 
 ## Directories
