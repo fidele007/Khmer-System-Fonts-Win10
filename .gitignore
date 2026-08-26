@@ -1,0 +1,22 @@
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local font-conversion inputs and generated outputs
+input-windows/
+outputs/
+work/
+
+# Generated local package/source directories
+backup/Build */
+dist/Khmer_System_Fonts_Hanuman_v0.3.2/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
